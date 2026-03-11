@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("Student Grade Predictor - CI/CD Pipeline with Jenkins")
+st.title("Student Grade Predictor")
 
 
 st.write("Enter your marks to estimate the grade")
